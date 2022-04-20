@@ -6,7 +6,7 @@
   <link href="https://wenjie-astro.github.io/atom.xml" rel="self"/>
   
   <link href="https://wenjie-astro.github.io/"/>
-  <updated>2022-04-20T07:44:00.534Z</updated>
+  <updated>2022-04-20T10:17:54.592Z</updated>
   <id>https://wenjie-astro.github.io/</id>
   
   <author>
@@ -21,14 +21,18 @@
     <link href="https://wenjie-astro.github.io/2022/04/20/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/"/>
     <id>https://wenjie-astro.github.io/2022/04/20/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/</id>
     <published>2022-04-20T03:25:53.000Z</published>
-    <updated>2022-04-20T07:44:00.534Z</updated>
+    <updated>2022-04-20T10:17:54.592Z</updated>
     
     
-      
-      
     <summary type="html">&lt;h1 id=&quot;Typora入门：全网最全教程&quot;&gt;&lt;a href=&quot;#Typora入门：全网最全教程&quot; class=&quot;headerlink&quot; title=&quot;Typora入门：全网最全教程&quot;&gt;&lt;/a&gt;Typora入门：全网最全教程&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;写Mrak</summary>
-      
+&lt;p&gt;写Mrakdown费事？Typora让你像写Word一样行云流水，所见即所得。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;简介&quot;&gt;简介&lt;button class=&quot;cnblogs-toc-button&quot; title=&quot;显示目录导航&quot; aria-expanded=&quot;false&quot;&gt;&lt;/button&gt;&lt;/h2&gt;
+&lt;p&gt;Typora是一款轻便简洁的Markdown编辑器，支持即时渲染技术，这也是与其他Markdown编辑器最显著的区别。即时渲染使得你写Markdown就想是写Word文档一样流畅自如，不像其他编辑器的有编辑栏和显示栏。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Typora删除了预览窗口，以及所有其他不必要的干扰。取而代之的是实时预览。&lt;/li&gt;
+&lt;li&gt;Markdown的语法因不同的解析器或编辑器而异，Typora使用的是&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub Flavored Markdown&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -44,13 +48,13 @@
     <link href="https://wenjie-astro.github.io/1970/01/01/hello-world/"/>
     <id>https://wenjie-astro.github.io/1970/01/01/hello-world/</id>
     <published>1970-01-01T00:00:00.000Z</published>
-    <updated>2022-04-20T02:54:52.233Z</updated>
+    <updated>2022-04-20T10:18:37.765Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     
