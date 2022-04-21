@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"wenjie-astro.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"wenjie-astro.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"always","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta name="description" content="关于此网站本网站诞生于2022年4月20日 目前我是一名在读的天体物理学专业的硕士生。前一天突然看到几个大佬的网页，然后突然也萌生了一个做网页的想法。想把自己的想法，或者自己的笔记上传在网页上，因此便有了今天的做网页的动力。 此网站的名字“爱骑扫把的王同学”也是前一天晚上突发奇想得来的。灵感来源于此前看的哈利波特，以及想起了小时候在村里面玩都喜欢骑着扫把当马琦，所以便有了这个名字。 第一次开始做网">
@@ -115,6 +115,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -159,11 +160,38 @@
     <a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>公益 404</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
     </header>
@@ -210,7 +238,7 @@
 <p>此网站的名字“爱骑扫把的王同学”也是前一天晚上突发奇想得来的。灵感来源于此前看的哈利波特，以及想起了小时候在村里面玩都喜欢骑着扫把当马琦，所以便有了这个名字。</p>
 <p>第一次开始做网页，也是按照网上的教程一步步的做下来的，以后学的东西多了肯定会继续优化页面之类的东西。</p>
 <p>敬请期待…………</p>
-<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><p>邮箱：<a href="mailto:&#x34;&#52;&#x36;&#54;&#x30;&#x31;&#x30;&#x39;&#55;&#64;&#113;&#113;&#46;&#x63;&#111;&#109;">&#x34;&#52;&#x36;&#54;&#x30;&#x31;&#x30;&#x39;&#55;&#64;&#113;&#113;&#46;&#x63;&#111;&#109;</a><br>QQ: 446601097</p>
+<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><p>邮箱：<a href="mailto:&#52;&#x34;&#x36;&#54;&#48;&#x31;&#48;&#57;&#55;&#x40;&#113;&#113;&#46;&#99;&#111;&#x6d;">&#52;&#x34;&#x36;&#54;&#48;&#x31;&#48;&#57;&#55;&#x40;&#113;&#113;&#46;&#99;&#111;&#x6d;</a><br>QQ: 446601097</p>
 
       </div>
       
@@ -506,6 +534,10 @@
   
 
 
+
+
+  
+<script src="/js/local-search.js"></script>
 
 
 
