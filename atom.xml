@@ -6,7 +6,7 @@
   <link href="https://wenjie-astro.github.io/atom.xml" rel="self"/>
   
   <link href="https://wenjie-astro.github.io/"/>
-  <updated>2022-04-20T10:17:54.592Z</updated>
+  <updated>2022-04-22T04:31:20.325Z</updated>
   <id>https://wenjie-astro.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wenjie-astro.github.io/2022/04/20/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/"/>
     <id>https://wenjie-astro.github.io/2022/04/20/Typora%E5%85%A5%E9%97%A8%EF%BC%9A%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B/</id>
     <published>2022-04-20T03:25:53.000Z</published>
-    <updated>2022-04-20T10:17:54.592Z</updated>
+    <updated>2022-04-22T04:31:20.325Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;Typora入门：全网最全教程&quot;&gt;&lt;a href=&quot;#Typora入门：全网最全教程&quot; class=&quot;headerlink&quot; title=&quot;Typora入门：全网最全教程&quot;&gt;&lt;/a&gt;Typora入门：全网最全教程&lt;/h1&gt;&lt;blockquote&gt;
@@ -44,20 +44,23 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://wenjie-astro.github.io/1970/01/01/hello-world/"/>
-    <id>https://wenjie-astro.github.io/1970/01/01/hello-world/</id>
-    <published>1970-01-01T00:00:00.000Z</published>
-    <updated>2022-04-20T10:18:37.765Z</updated>
+    <title>Ubuntu 安装Python3</title>
+    <link href="https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/"/>
+    <id>https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/</id>
+    <published>2022-04-20T03:25:53.000Z</published>
+    <updated>2022-04-22T04:50:10.990Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    <summary type="html">&lt;h1 id=&quot;Ubuntu-安装Python3&quot;&gt;&lt;a href=&quot;#Ubuntu-安装Python3&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 安装Python3&quot;&gt;&lt;/a&gt;Ubuntu 安装Python3&lt;/h1&gt;&lt;h2 id=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;a href=&quot;#先看一下自己电脑有没有python&quot; class=&quot;headerlink&quot; title=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;/a&gt;先看一下自己电脑有没有python&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;检查python路径：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式一：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;type -a python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式二：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ls -l /usr/bin/python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ls -l /usr/bin/python*&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式三：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;which python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;如果输出空或者no such file or directory, 则说明未安装。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;strong&gt;如果有提示其他的，请直接看最后面的解决方法&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
+    <category term="Markdown" scheme="https://wenjie-astro.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://wenjie-astro.github.io/tags/Markdown/"/>
     
   </entry>
   
