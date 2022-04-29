@@ -6,7 +6,7 @@
   <link href="https://wenjie-astro.github.io/atom.xml" rel="self"/>
   
   <link href="https://wenjie-astro.github.io/"/>
-  <updated>2022-04-22T04:50:10.990Z</updated>
+  <updated>2022-04-22T04:31:20.325Z</updated>
   <id>https://wenjie-astro.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Ubuntu 安装Python3</title>
-    <link href="https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/"/>
-    <id>https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/</id>
-    <published>2022-04-20T03:25:53.000Z</published>
-    <updated>2022-04-22T04:50:10.990Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;Ubuntu-安装Python3&quot;&gt;&lt;a href=&quot;#Ubuntu-安装Python3&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 安装Python3&quot;&gt;&lt;/a&gt;Ubuntu 安装Python3&lt;/h1&gt;&lt;h2 id=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;a href=&quot;#先看一下自己电脑有没有python&quot; class=&quot;headerlink&quot; title=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;/a&gt;先看一下自己电脑有没有python&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;检查python路径：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式一：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;type -a python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式二：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ls -l /usr/bin/python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;ls -l /usr/bin/python*&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式三：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;which python&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;如果输出空或者no such file or directory, 则说明未安装。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;如果有提示其他的，请直接看最后面的解决方法&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Markdown" scheme="https://wenjie-astro.github.io/categories/Markdown/"/>
-    
-    
-    <category term="Markdown" scheme="https://wenjie-astro.github.io/tags/Markdown/"/>
-    
-  </entry>
   
   <entry>
     <title>Typora入门：全网最全教程</title>
@@ -54,6 +33,27 @@
 &lt;li&gt;Typora删除了预览窗口，以及所有其他不必要的干扰。取而代之的是实时预览。&lt;/li&gt;
 &lt;li&gt;Markdown的语法因不同的解析器或编辑器而异，Typora使用的是&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub Flavored Markdown&lt;/a&gt;。&lt;/li&gt;
 &lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Markdown" scheme="https://wenjie-astro.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://wenjie-astro.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 安装Python3</title>
+    <link href="https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/"/>
+    <id>https://wenjie-astro.github.io/2022/04/20/Ubuntu%20%E5%AE%89%E8%A3%85Python3/</id>
+    <published>2022-04-20T03:25:53.000Z</published>
+    <updated>2022-04-22T04:50:10.990Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Ubuntu-安装Python3&quot;&gt;&lt;a href=&quot;#Ubuntu-安装Python3&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu 安装Python3&quot;&gt;&lt;/a&gt;Ubuntu 安装Python3&lt;/h1&gt;&lt;h2 id=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;a href=&quot;#先看一下自己电脑有没有python&quot; class=&quot;headerlink&quot; title=&quot;先看一下自己电脑有没有python&quot;&gt;&lt;/a&gt;先看一下自己电脑有没有python&lt;/h2&gt;&lt;figure class=&quot;highlight vim&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;检查&lt;span class=&quot;keyword&quot;&gt;python&lt;/span&gt;路径：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式一：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;type&lt;/span&gt; -&lt;span class=&quot;keyword&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式二：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;ls&lt;/span&gt; -&lt;span class=&quot;keyword&quot;&gt;l&lt;/span&gt; /usr/bin/&lt;span class=&quot;keyword&quot;&gt;python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;ls&lt;/span&gt; -&lt;span class=&quot;keyword&quot;&gt;l&lt;/span&gt; /usr/bin/&lt;span class=&quot;keyword&quot;&gt;python&lt;/span&gt;*&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;方式三：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;which &lt;span class=&quot;keyword&quot;&gt;python&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;如果输出空或者&lt;span class=&quot;keyword&quot;&gt;no&lt;/span&gt; such &lt;span class=&quot;keyword&quot;&gt;file&lt;/span&gt; &lt;span class=&quot;built_in&quot;&gt;or&lt;/span&gt; directory, 则说明未安装。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;如果有提示其他的，请直接看最后面的解决方法&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
